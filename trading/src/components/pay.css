@@ -1,0 +1,51 @@
+div.card{
+    padding: 1.2rem 3.5rem;
+    border: none;
+    font-size: 1.2rem;
+    margin-bottom: 3rem;
+    background: transparent;
+    margin-left: 550px;
+    top: -100px;
+}
+.font-weight-normal{
+    color: rgb(155, 211, 24);
+    font-style: normal;
+}
+span{
+    color: rgb(7, 1, 14);
+    font-size: 20px;
+    font-style: oblique;
+}
+.card-header{
+font-size: 10px;
+border-right: 20px;
+width: 540px;
+height: 10px;
+
+
+}
+.input{
+    font-size: 1px;
+    width: 300px;
+height: 40px;
+}
+.card{
+        font-size: 0px;
+        width:600px;
+        height: 600px;
+        top: 100px;
+        margin-top: 10px;
+}
+.p-3 {
+    top: 200px;
+
+}
+.img{
+    top: 100px;
+}
+.btn {
+    border-radius: 400px;
+}
+.text-center{
+    top: 100px;
+}
